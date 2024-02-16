@@ -1,0 +1,24 @@
+新 1 = acc*cc
+新 2 = (c*)*bc*
+新 3 = bbaUc
+新 4 = ccUcbUbac
+新 5 = aca*ccb
+新 6 = cbcaacUac*
+新 7 = c(a*(bacb))c
+
+新 1 = bacUcb
+新 2 = (b)Ubccc
+新 3 = c(c)b
+新 4 = bUc*(a)cb
+新 5 = bUb*bca
+新 6 = a(a*)*cc*c
+新 7 = c*bUb*acbb*b
+
+新 1 = bacaac
+新 2 = a*acb*b*
+新 3 = aUaUc
+新 4 = (b)aUbcba
+新 5 = (cc)aaa
+新 6 = (b(aa))bac
+新 7 = b*aac(a*cc)*
+

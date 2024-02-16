@@ -1,0 +1,43 @@
+[
+  {
+    "productCount": 1,
+    "productId": 1,
+    "productName": "Одноместный Люкс",
+    "productSum": 5000.0
+  },
+  {
+    "productCount": 2,
+    "productId": 2,
+    "productName": "Одноместный Люкс",
+    "productSum": 5000.0
+  },
+  {
+    "productCount": 5,
+    "productId": 3,
+    "productName": "Семейный (трёхместный) Номер",
+    "productSum": 5400.0
+  },
+  {
+    "productCount": 7,
+    "productId": 4,
+    "productName": "Двухместный Номер",
+    "productSum": 4400.0
+  },
+  {
+    "productCount": 7,
+    "productId": 5,
+    "productName": "Двухместный Номер (раздельные кровати)",
+    "productSum": 4400.0
+  },
+  {
+    "productCount": 2,
+    "productId": 6,
+    "productName": "Двухместный Люкс",
+    "productSum": 8000.0
+  },
+  {
+    "productCount": 4,
+    "productId": 7,
+    "productName": "Четырёхместный Номер",
+    "productSum": 6400.0
+  }]
